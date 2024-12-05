@@ -1,1 +1,2 @@
-print("Hello world")
+print("batsin bu dunya")
+print("aaaaa")
