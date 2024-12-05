@@ -1,2 +1,3 @@
-print("batsin bu dunya")
+print("Hi")
 print("aaaaa")
+print("Bye")
